@@ -1,9 +1,9 @@
-Frameworks 🛠️
+### Frameworks 🛠️
 
 <p align="left">
   <img src="https://img.shields.io/badge/FiveM-00A8E8?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL / MySQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ### 🔥 GitHub Streak
