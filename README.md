@@ -1,7 +1,11 @@
+Frameworks 🛠️
 
+<p align="left">
+  <img src="https://img.shields.io/badge/FiveM-00A8E8?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL / MySQL" />
+</p>
 
-
-<!--END_SECTION:waka-->
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BeanTheFein&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=8B949E&fire=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681)](https://git.io/streak-stats)
